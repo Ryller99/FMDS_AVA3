@@ -1,2 +1,18 @@
-# FMDS_AVA3
-Repositório destinado a avaliação 3 da Disciplina de FRAMEWORKS MODERNOS PARA DESENVOLVIMENTO DE SISTEMAS
+📚 FMDS – Avaliação 3
+Repositório destinado à Avaliação 2 da disciplina Frameworks Modernos para Desenvolvimento de Sistemas.
+
+👥 Alunos
+Ryller Brito Pereira
+Kaila Giovanna A. M. da Silva
+📝 Tema: Empréstimos para Amigos
+
+
+Documentação com Swagger 
+
+Instalação do Swagger e dependências 
+npm install swagger-jsdoc
+npm install swagger-ui-express
+
+Criado o arquivo swagger.js 
+
+Documentado os GET, POST, PUT e DELETE dentro do arquivo do index.js
