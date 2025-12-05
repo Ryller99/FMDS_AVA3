@@ -2,8 +2,8 @@
 Repositório destinado à Avaliação 2 da disciplina Frameworks Modernos para Desenvolvimento de Sistemas.
 
 👥 Alunos
-Ryller Brito Pereira
-Kaila Giovanna A. M. da Silva
+**Ryller Brito Pereira**
+**Kaila Giovanna A. M. da Silva**
 📝 Tema: Empréstimos para Amigos
 
 
