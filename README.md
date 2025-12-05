@@ -14,6 +14,8 @@ Instalação do Swagger e dependências
 npm install swagger-jsdoc
 npm install swagger-ui-express
 
-Criado o arquivo swagger.js 
+Criado o arquivo swagger.js -> backend > swagger.js
 
-Documentado os GET, POST, PUT e DELETE dentro do arquivo do index.js
+Documentado os GET, POST, PUT e DELETE dentro do arquivo do index.js -> backend > index.js
+
+
